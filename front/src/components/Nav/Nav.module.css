@@ -1,0 +1,21 @@
+.nav{
+    box-sizing: border-box;
+    display: flex; 
+    justify-content: space-between;
+    background-color: #a4c3b2;
+    margin: 0.5em;
+    padding: 15px 20px;
+}
+
+.nav__menu{
+    display: flex; 
+}
+.nav__menu_login{
+    margin: 0px 5px;
+}
+.nav__menu_about{
+    margin: 0px 5px;
+}
+.nav__menu_home{
+    margin: 0px 5px;
+}

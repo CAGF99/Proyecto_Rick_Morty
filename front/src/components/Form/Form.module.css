@@ -1,0 +1,23 @@
+.form{
+    background-color:  #a4c3b2;
+    height: 15em;
+    width: 20em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px auto;
+    box-sizing: border-box;
+}
+.form__label_inputs{
+    display: flex;
+    flex-direction: column;
+}
+
+.form__label_username{
+    display: flex;
+    
+    margin: 10px 0px;
+}
+.form__label_password{
+    margin: 10px 0px;
+}

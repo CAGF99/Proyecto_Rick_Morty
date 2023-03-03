@@ -1,0 +1,32 @@
+.galeria_cards__card{
+    /* border: 2px ridge aquamarine; */
+    box-shadow: 0 0 20px #81B29A;
+    position: relative;
+    margin-bottom: 1.8em;
+}
+.galeria_cards__button{
+    position: absolute;
+    z-index: 10;
+    right: 0;
+    margin-top: 5px;
+    margin-right: 5px;
+    background-color: #780000;
+    color: #FDF0D5;
+    cursor: pointer;
+}
+.galeria_cards__div_h2{
+    margin-left: 5px ;
+}
+.galeria_cards__div_h2_name{
+    position: absolute;
+    bottom: 2em;
+    color: rgba(248, 249, 250,1);
+    background-color: rgba(52, 58, 64,0.5);
+    padding: 3px;
+}
+.galeria_cards__div_specie_gender{
+    display: flex;
+    justify-content: space-around;
+    font-size: 10px;
+}
+

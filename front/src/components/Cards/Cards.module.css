@@ -1,0 +1,9 @@
+.galeria_cards{
+    box-sizing: border-box;
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-around;
+    margin: 0.5em;
+    padding: 20px 0;
+    flex-wrap: wrap;
+}
